@@ -1,6 +1,6 @@
 
 
-# Google Tranlator
+# Google Translator
 
 Google Tranlator free service instantly translates words, phrases, and web pages between English and over 100 other languages.
 
